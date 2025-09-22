@@ -1,0 +1,18 @@
+/* Music Button */
+#music-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: rgba(255, 165, 0, 0.9);
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(255, 165, 0, 0.7);
+  transition: 0.3s;
+}
+#music-btn:hover {
+  background: #ff6600;
+}
